@@ -1,0 +1,6 @@
+{
+  "name": "SAP Fiori University ERP - Student Management System",
+  "description": "Enterprise-grade SAP Fiori UI5 Student Management System with dedicated Student, Faculty, and Admin portals, semester results, marksheet generation, attendance tracking, fees, documents, and interactive analytical dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
